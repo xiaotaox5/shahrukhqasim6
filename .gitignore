@@ -1,4 +1,1 @@
-.idea
-venv
-*.ini
-__pycache__
+*.sh \n mine.txt
